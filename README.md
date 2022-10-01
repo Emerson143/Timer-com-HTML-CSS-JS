@@ -10,12 +10,13 @@
 ## Como funciona o Projeto
 
  O projeto funciona com uma caixa de tempo, podendo selecionar o tempo,  horas, minutos e segundos, com três botões cada um com a seguintes funções iniciar, pausar e cancelar, ao final do tempo selecionado toca um alarme.
- ![](../Captura%20de%20tela%202022-10-01%20112924.jpg)
+ background-image:url('Captura de tela 2022-10-01 112924');
 ### Ambiente.
 
 Para desenvolvimento e utilização do projeto são necessárias as seguintes dependências:
 
 Git: Disponibiliza o Git na máquina, incluindo o utilitário Git Clone, usado para efetuar o download do projeto.
+
 Visual Code: IDE utilizada para o desenvolvimento do projeto, mais pode ser usado qualquer editor de texto.
 
 

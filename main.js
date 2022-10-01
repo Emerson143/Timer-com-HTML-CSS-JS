@@ -4,14 +4,14 @@ var pausar = document.getElementById('pausar');
 var cancelar = document.getElementById('cancelar');
 
 var h = document.getElementById("horas");
-var m = document.getElementById("minute");
-var s = document.getElementById("sec");
+var m = document.getElementById("minutos");
+var s = document.getElementById("segundos");
 
 //Adicionando uma refencia para o timer
 var iniciarTimer = null;
 
 iniciar.addEventListener('click', function(){
-    //initialize the variable
+    //inicia a variavel 
     function startInterval(){
         iniciarTimer = setInterval(function() {
             timer();
@@ -21,15 +21,15 @@ iniciar.addEventListener('click', function(){
 })
 
 pausar.addEventListener('click', function(){
-    clearInterval(iniciarTimer);
     
-    stopInterval()   
+    stopInterval()  //pausar o time
+   
 })
 cancelar.addEventListener('click', function(){
     h.value = 0;
     m.value = 0;
     s.value = 0;
-    //stop the timer after pressing "reset"
+    //cancela o time
     stopInterval()
 })
 

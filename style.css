@@ -8,7 +8,7 @@ html {
 
 h1 {
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     text-align: center;
 }
 
@@ -48,8 +48,8 @@ h1 {
     grid-area: 1 / 4 / 1 / 5;
 }
 
-/*times*/
-.time {
+/*tempo*/
+.tempo {
     justify-self: center;
     align-self: center;
 
@@ -75,7 +75,7 @@ h1 {
     grid-area: 2 / 2 / 2 / 4;
 }
 
-#minute {
+#minutos {
     grid-area: 2 / 3 / 2 / 4;
 }
 
@@ -83,7 +83,7 @@ h1 {
     grid-area: 2 / 3 / 2 / 5;
 }
 
-#sec {
+#segundos {
     grid-area: 2 / 4 / 2 / 5;
 }
 

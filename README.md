@@ -10,7 +10,8 @@
 ## Como funciona o Projeto
 
  O projeto funciona com uma caixa de tempo, podendo selecionar o tempo,  horas, minutos e segundos, com três botões cada um com a seguintes funções iniciar, pausar e cancelar, ao final do tempo selecionado toca um alarme.
- background-image:url('Captura de tela 2022-10-01 112924');
+ 
+ ![](perfeita.jpg)
 ### Ambiente.
 
 Para desenvolvimento e utilização do projeto são necessárias as seguintes dependências:

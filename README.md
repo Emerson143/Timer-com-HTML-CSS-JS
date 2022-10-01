@@ -9,7 +9,7 @@
 
 ## Como funciona o Projeto
 
- O projeto funciona com uma caixa de tempo, podendo selecionar o tempo,  horas, minutos e segundos, com três botões cada um com a seguinte 
+ O projeto funciona com uma caixa de tempo, podendo selecionar o tempo,  horas, minutos e segundos, com três botões cada um com a seguintes funções iniciar, pausar e cancelar, ao final do tempo selecionado toca um alarme.
  ![](../Captura%20de%20tela%202022-10-01%20112924.jpg)
 ### Ambiente.
 
